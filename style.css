@@ -1,0 +1,54 @@
+body{
+  background-color:darkseagreen;
+}
+.centerAlign{
+    margin: auto;
+    width: 50%;
+    background-color: burlywood;
+    border: 1px solid green;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttonDiv{
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 20%;
+}
+.memeDisplay{
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.lableClass{
+  font: 15px arial;
+  width: 50%;
+  margin: 20px 0px 0px 20px;
+
+}
+.inputClass{
+  width: 50%;
+  margin: 20px 0px 0px 20px;
+}
+.buttonDelete{
+  width: 20%;
+  margin: auto;
+}
+.head{
+  margin: auto;
+  width: 50%;
+  color: blue;
+  text-align: center;  
+}
+
+#container img{
+  width: 100%;
+}
+
+.blackDivs{
+  background-color: black;
+  color: yellow;
+  padding: 15px 0px 15px 0px;
+  margin-bottom: 15px;
+}
